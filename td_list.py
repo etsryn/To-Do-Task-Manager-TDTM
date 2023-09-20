@@ -7,7 +7,7 @@ from datetime import datetime
 import pywhatkit as kit
 import os
 
-# Initialize Setups ---------------------------------------------------------------------------------------------------------
+# Initial Setups ---------------------------------------------------------------------------------------------------------
 jsSetup.__init__64bit__ini()
 jsSetup.__init__64bit_rp()
 jsSetup.__init__64bit__dp()
