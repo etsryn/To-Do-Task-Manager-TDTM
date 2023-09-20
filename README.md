@@ -15,7 +15,7 @@ This program is built using Python Programming Language and Using several librar
 
 # Usage
 Compile the td_list.py file and execute it
---> Command I Used : Compilation & Execution -> td_list.py
+--> Command I Used : Compilation & Execution -> py td_list.py
 
 # Features
 1. It involves a very tricky use of File Handling and File Manipulation
