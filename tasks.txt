@@ -1,0 +1,7 @@
+Task Detail : i am task 1 - Task Priority : High - Due Date : 09/09/2023 - Status : Completed
+Task Detail : i am task 2 - Task Priority : High - Due Date : 11/09/2023 - Status : Pending
+Task Detail : i am task 3 - Task Priority : Medium - Due Date : 13/09/2023 - Status : Pending
+Task Detail : i am task 4 - Task Priority : High - Due Date : 14/09/2023 - Status : Pending
+Task Detail : i am task 5 - Task Priority : Low - Due Date : 16/09/2023 - Status : Pending
+Task Detail : i am task 6 - Task Priority : High - Due Date : 18/09/2023 - Status : Pending
+Task Detail : I am task 7 - Task Priority : Medium - Due Date : 19/09/2023 - Status : Pending
