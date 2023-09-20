@@ -26,6 +26,10 @@ You can contribute to my code in following ways : -
 1. You can reduce the function like "load_task_1()" to unique function as "load_task()"
 2. You can add the feature to mark a task "pending" again
 3. I wish to include the functionality to handle multiple users with their own identity, credentials and works
+
+# Info
+You might get some prompt like "Error rendering embedded code : Invalid PDF", while accessing inaccessible.pdf PDF file in GitHub, no reason to worries, it is only because that PDF file is locked due to copyright purpose, but you can download it and use it, you won't get any problems
+
 # License
 Apache-2.0 license
 
